@@ -65,7 +65,7 @@
 
 ### 🧭 Portfolio
 🎨 Check out my portfolio for detailed case studies, designs, and project demos:  
-👉 **[https://xrevenge06.dev](https://xrevenge06.dev)** *(example link — replace with your real portfolio once ready)*
+👉 **[tufankiraz.vercel.app](https://tufankiraz.vercel.app)** *(example link — replace with your real portfolio once ready)*
 
 ---
 
