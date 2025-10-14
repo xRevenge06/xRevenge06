@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/xRevenge06/xRevenge06/assets/your-banner-image" alt="Banner" />
+  <img src="https://i.pinimg.com/originals/8b/35/72/8b357283fd26e3bb18cc1983c0ebdb9c.gif" alt="Banner" />
 </p>
 
 ---
