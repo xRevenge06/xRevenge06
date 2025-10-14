@@ -1,56 +1,98 @@
-<h1 align="center">👋 Hey there, I'm Tufan Kiraz (aka xRevenge06)</h1>
+<h1 align="center">👋 Hi, I'm Tufan Kiraz (xRevenge06)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F74C4C&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;React+%26+Next.js+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F74C4C&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Next.js+%26+React+Expert;Clean+Code+Enthusiast;Always+Building+Something+Cool!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/xRevenge06/xRevenge06/assets/your-banner-image" alt="Banner" />
 </p>
 
 ---
 
 ### 💡 About Me
-🚀 I'm a passionate **Full-Stack Web Developer** from Turkey.  
-🧠 I love crafting fast, user-friendly, and visually appealing web applications.  
-🔥 Coding isn’t just work for me — it’s my **passion**.  
-📈 Constantly learning, improving, and experimenting with new technologies.  
+🚀 I'm a passionate **Full-Stack Developer** who loves to turn ideas into reality through code.  
+💻 Focused on creating **fast**, **modern**, and **scalable** web applications.  
+🧠 Always exploring new technologies and pushing my limits.  
+🎯 Mission: *Build projects that make people say “Oh my god.”*
 
 ---
 
 ### 🧰 Tech Stack
 
-#### 💻 Frontend:
+#### 💻 Frontend
 `HTML` • `CSS` • `JavaScript` • `React` • `Next.js`
 
-#### ⚙️ Backend:
+#### ⚙️ Backend
 `Node.js` • `Express.js` • `MongoDB` • `PostgreSQL`
 
-#### 🧠 Others:
+#### 🧠 Others
 `C#` • `REST API` • `JWT` • `TailwindCSS` • `Git / GitHub`
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧩 [Kiraz Tech Platform](https://github.com/xRevenge06)
+> A modern web platform offering smart, scalable digital solutions for businesses.  
+**Stack:** Next.js, Node.js, MongoDB, TailwindCSS  
+⭐ *Clean design, dark mode support, multilingual system.*
+
+#### 🌍 [Rust PVE Base Defense System](https://github.com/xRevenge06)
+> A plugin system for Rust servers that spawns zombie waves attacking player bases based on their level.  
+**Stack:** C#, uMod API  
+⚙️ *Custom wave logic, scalable difficulty, fun survival mechanics.*
+
+#### 💬 [Live Support Chat App](https://github.com/xRevenge06)
+> A real-time customer support dashboard with multilingual support and dark mode.  
+**Stack:** React, Express.js, Socket.io, MongoDB  
+💡 *Fast, elegant, and easy to manage.*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xRevenge06&show_icons=true&theme=radical" alt="Tufan Kiraz GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xRevenge06&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xRevenge06&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xRevenge06&theme=redical" alt="Activity Graph" />
 </p>
 
 ---
 
-### 🌍 Connect With Me
+### 🧭 Portfolio
+🎨 Check out my portfolio for detailed case studies, designs, and project demos:  
+👉 **[https://xrevenge06.dev](https://xrevenge06.dev)** *(example link — replace with your real portfolio once ready)*
+
+---
+
+### 📬 Contact Me
+
 <p align="center">
+  <a href="mailto:tufankirazdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
   <a href="https://www.linkedin.com/in/tufan-kiraz-920580387/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://github.com/xRevenge06" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="https://instagram.com/xrevenge06" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </p>
 
 ---
 
 ### ⚡ Quote
-> “Real developers don’t just write code — they **build the future** with it.”
+> “Real developers don’t just write code — they **build worlds** with it.”
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
+
+---
