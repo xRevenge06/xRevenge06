@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm Tufan Kiraz (xRevenge06)</h1>
+<h3 align="center">Founder & Full-Stack Engineer @ Revark Yazılım</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F74C4C&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Next.js+%26+React+Expert;Clean+Code+Enthusiast;Always+Building+Something+Cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F74C4C&center=true&vCenter=true&width=550&lines=Architecting+SaaS+%26+ERP+Systems;Next.js%2C+React+%26+TypeScript;Building+High-Performance+Web;Founder+%40+Revark+Yazılım!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,42 +12,55 @@
 ---
 
 ### 💡 About Me
-🚀 I'm a passionate **Full-Stack Developer** who loves to turn ideas into reality through code.  
-💻 Focused on creating **fast**, **modern**, and **scalable** web applications.  
-🧠 Always exploring new technologies and pushing my limits.  
-🎯 Mission: *Build projects that make people say “Oh my god.”*
+🚀 Operating independently under my digital brand **Revark Yazılım**, I specialize in architecting scalable, high-performance SaaS, ERP, CRM, and Fintech platforms.  
+💻 I don't just write code; I engineer end-to-end solutions with a strict focus on transactional integrity and clean code principles.  
+⚙️ From initial technical analysis and multi-tenant database architecture to complex WebSocket integrations and deployment, I manage the entire lifecycle.  
+🎯 Mission: *Filter out the noise and build high-impact, enterprise-grade systems that scale.*
 
 ---
 
 ### 🧰 Tech Stack
 
-#### 💻 Frontend
-`HTML` • `CSS` • `JavaScript` • `React` • `Next.js`
+#### 💻 Frontend Ecosystem
+`TypeScript` • `Next.js` • `React` • `Vue.js` • `JavaScript` • `HTML/CSS` • `TailwindCSS`
 
-#### ⚙️ Backend
-`Node.js` • `Express.js` • `MongoDB` • `PostgreSQL`
+#### ⚙️ Backend & Architecture
+`Node.js` • `Express.js` • `WebSockets (Low-Latency)` • `PostgreSQL` • `MongoDB`
 
-#### 🧠 Others
-`C#` • `REST API` • `JWT` • `TailwindCSS` • `Git / GitHub`
+#### 🧠 Desktop & Others
+`Electron.js` • `REST API` • `JWT` • `Git / GitHub`
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Architecture & Projects
 
-#### 🧩 [Kiraz Tech Platform](https://github.com/xRevenge06)
-> A modern web platform offering smart, scalable digital solutions for businesses.  
-**Stack:** Next.js, Node.js, MongoDB, TailwindCSS  
-⭐ *Clean design, dark mode support, multilingual system.*
+#### 🧩 Vitisfera Enterprise ERP & CRM
+> A comprehensive, multi-tenant enterprise management system tailored for the dietary supplement industry.  
+**Stack:** Next.js, Node.js, PostgreSQL, AI Modules  
+⭐ *Features advanced sales statistics tracking, AI-driven query management, and seamless operational flow.*
 
-#### 🌍 [Rust PVE Base Defense System](https://github.com/xRevenge06)
-> A plugin system for Rust servers that spawns zombie waves attacking player bases based on their level.  
+#### 📈 Atocx Trading API & Real-Time Data
+> Zero-cost, low-latency data flow architecture designed for a financial trading software project.  
+**Stack:** WebSockets, Node.js, REST API  
+⚙️ *Engineered for real-time transactional integrity and high-speed market data synchronization.*
+
+#### ⚡ PerfGame Desktop Optimizer
+> An AI-backed desktop application built from the ground up for deep PC and gaming (FPS) performance optimization.  
+**Stack:** Electron.js, Node.js  
+🚀 *Features system-level tweaking and an intuitive UI layout designed for competitive environments.*
+
+#### 🌍 Rust PVE Base Defense System
+> A custom plugin system for Rust servers that dynamically spawns zombie waves attacking player bases.  
 **Stack:** C#, uMod API  
-⚙️ *Custom wave logic, scalable difficulty, fun survival mechanics.*
+🛠️ *Custom wave logic, scalable difficulty, and fun survival mechanics.*
 
-#### 💬 [Live Support Chat App](https://github.com/xRevenge06)
-> A real-time customer support dashboard with multilingual support and dark mode.  
-**Stack:** React, Express.js, Socket.io, MongoDB  
-💡 *Fast, elegant, and easy to manage.*
+---
+
+### ⚡ Life Outside the Terminal
+The discipline required to engineer complex systems applies to all aspects of my life:
+*   **🏋️‍♂️ Iron & Consistency:** Dedicated natural bodybuilder committed to a strict Push-Pull-Legs (PPL) routine. The discipline required to hit a 100kg bench press directly translates to my development ethic.
+*   **🔧 Automotive Mechanics:** Passionate about hands-on car modification. I spend garage time working on aesthetic styling, custom suspension setups, and mechanical preservation for my project car.
+*   **🎮 Tactical Competitor:** Highly active in competitive tactical shooters and survival games (CS2, Rust). In *Pro Soccer Online*, I orchestrate team strategy operating as the Number 10 playmaker.
 
 ---
 
@@ -58,13 +72,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xRevenge06&theme=redical" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xRevenge06&theme=radical" alt="Activity Graph" />
 </p>
 
 ---
 
 ### 🧭 Portfolio
-🎨 Check out my portfolio for detailed case studies, designs, and project demos:  
+🎨 Check out my portfolio for detailed case studies, architectural designs, and project demos:  
 👉 **[tufankiraz.vercel.app](https://tufankiraz.vercel.app)**
 
 ---
@@ -89,10 +103,8 @@
 ---
 
 ### ⚡ Quote
-> “Real developers don’t just write code — they **build worlds** with it.”
+> “Real developers don’t just write code — they **architect entire ecosystems** with it.”
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
-
----
