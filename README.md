@@ -1,110 +1,83 @@
-<h1 align="center">👋 Hi, I'm Tufan Kiraz (xRevenge06)</h1>
-<h3 align="center">Founder & Full-Stack Engineer @ Revark Yazılım</h3>
-
+<!--
+GitHub profile README for https://github.com/xRevenge06
+Put this file at the root of the repository named xRevenge06.
+It shows on the profile page. It is not a project README.
+-->
+<div align="center">
+# Tufan Kiraz
+**Founder, [Revark Yazılım](https://revarkyazilim.com) · Full-stack developer**
+ERP, CRM, and custom web systems for businesses.  
+Ankara, Türkiye · delivering since 2020 · available for new projects
+[tufankiraz.com](https://tufankiraz.com) · [revarkyazilim.com](https://revarkyazilim.com) · [LinkedIn](https://www.linkedin.com/in/tufan-kiraz-920580387) · [tufankiraz@revarkyazilim.com](mailto:tufankiraz@revarkyazilim.com) · [+90 538 688 62 41](tel:+905386886241)
+</div>
+## About
+I build software a company keeps open all day: operations panels, storefronts, corporate sites, and the APIs that connect them. I do this as [Revark Yazılım](https://revarkyazilim.com), from Ankara.
+I take a project from the first call through production. The interface, the API, and the database stay with one person, and the scope is written down before the build starts. I have worked this way since 2020, with clients in law, construction, healthcare, retail, logistics, and field sales. More than 100 projects shipped.
+I am also studying Web Design and Coding at Ankara University.
+Client systems usually stay private. This page is the public index. Case studies and the longer project list are on [tufankiraz.com](https://tufankiraz.com).
+## Selected work
+### Private systems
+**Vitisfera** · ERP & CRM  
+Pharmacy operations in one panel: field sales, support, warehouse, orders, and stock. Closed system.
+`React` `TypeScript` `Node.js`
+**Revark Auto** · workshop operations  
+Plate recognition, field work, and the admin panel on one structure. Private for now.
+`Next.js` `TypeScript` `PostgreSQL`
+### Live sites
+**[Alpsemlift](https://alpsemlift.com)** · elevator company, Kayseri  
+Product catalog, completed jobs, and contact on one corporate site.
+`Next.js` `TypeScript`
+**[Star Oto Mekanik](https://starotosasmaz.com.tr)** · workshop, Şaşmaz, Ankara  
+Scheduled service, diagnostics, and repair, with calls, hours, and contact on the page.
+`Next.js` `TypeScript`
+**[Anadolu Ticari Oto Servis](https://ostimticariservis.com.tr)** · light commercial workshop, Ostim  
+Built for a phone in an industrial street: services, directions, call, and WhatsApp on the first screen.
+`Next.js` `TypeScript`
+**[Uğur Öneş PT](https://uguronespt.com)** · personal trainer  
+Services, packages, online booking, and contact on a single page.
+`Next.js` `TypeScript`
+### Demos
+**[Revark Studios](https://eticaret.revarkyazilim.com)** · apparel storefront  
+A retail demo with fast pages and a mobile layout.
+`Next.js` `TypeScript` `PostgreSQL`
+**[Revark Parça](https://yedekparca.revarkyazilim.com)** · automotive spare parts  
+The catalog follows the selected vehicle. Prices and stock are demo data.
+`Next.js` `TypeScript` `PostgreSQL`
+## What I build
+| | |
+| --- | --- |
+| **Web applications** | Admin panels and internal tools shaped around a real workflow. |
+| **ERP & CRM** | Sales, stock, field teams, targets, commissions, and support in one place. |
+| **E-commerce** | Storefront, payments, stock, and the order path behind them. |
+| **APIs & integrations** | REST services and third-party connections so existing systems can share data. |
+## How a project runs
+1. We start from the step where the work gets stuck.
+2. Something usable goes out every week.
+3. One person covers the screen, the API, and the database.
+4. I stay after go-live and keep the system in step with the business.
+## Stack
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F74C4C&center=true&vCenter=true&width=550&lines=Architecting+SaaS+%26+ERP+Systems;Next.js%2C+React+%26+TypeScript;Building+High-Performance+Web;Founder+%40+Revark+Yazılım!" alt="Typing SVG" />
+  <img alt="TypeScript, React, Next.js, Vue.js, Tailwind CSS, Node.js, NestJS, .NET, PostgreSQL, MongoDB, Redis, Docker" src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,nodejs,nestjs,dotnet,postgres,mongodb,redis,docker&perline=12" />
 </p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8b/35/72/8b357283fd26e3bb18cc1983c0ebdb9c.gif" alt="Banner" />
-</p>
-
----
-
-### 💡 About Me
-🚀 Operating independently under my digital brand **Revark Yazılım**, I specialize in architecting scalable, high-performance SaaS, ERP, CRM, and Fintech platforms.  
-💻 I don't just write code; I engineer end-to-end solutions with a strict focus on transactional integrity and clean code principles.  
-⚙️ From initial technical analysis and multi-tenant database architecture to complex WebSocket integrations and deployment, I manage the entire lifecycle.  
-🎯 Mission: *Filter out the noise and build high-impact, enterprise-grade systems that scale.*
-
----
-
-### 🧰 Tech Stack
-
-#### 💻 Frontend Ecosystem
-`TypeScript` • `Next.js` • `React` • `Vue.js` • `JavaScript` • `HTML/CSS` • `TailwindCSS`
-
-#### ⚙️ Backend & Architecture
-`Node.js` • `Express.js` • `WebSockets (Low-Latency)` • `PostgreSQL` • `MongoDB`
-
-#### 🧠 Desktop & Others
-`Electron.js` • `REST API` • `JWT` • `Git / GitHub`
-
----
-
-### 🚀 Featured Architecture & Projects
-
-#### 🧩 Vitisfera Enterprise ERP & CRM
-> A comprehensive, multi-tenant enterprise management system tailored for the dietary supplement industry.  
-**Stack:** Next.js, Node.js, PostgreSQL, AI Modules  
-⭐ *Features advanced sales statistics tracking, AI-driven query management, and seamless operational flow.*
-
-#### 📈 Atocx Trading API & Real-Time Data
-> Zero-cost, low-latency data flow architecture designed for a financial trading software project.  
-**Stack:** WebSockets, Node.js, REST API  
-⚙️ *Engineered for real-time transactional integrity and high-speed market data synchronization.*
-
-#### ⚡ PerfGame Desktop Optimizer
-> An AI-backed desktop application built from the ground up for deep PC and gaming (FPS) performance optimization.  
-**Stack:** Electron.js, Node.js  
-🚀 *Features system-level tweaking and an intuitive UI layout designed for competitive environments.*
-
-#### 🌍 Rust PVE Base Defense System
-> A custom plugin system for Rust servers that dynamically spawns zombie waves attacking player bases.  
-**Stack:** C#, uMod API  
-🛠️ *Custom wave logic, scalable difficulty, and fun survival mechanics.*
-
----
-
-### ⚡ Life Outside the Terminal
-The discipline required to engineer complex systems applies to all aspects of my life:
-*   **🏋️‍♂️ Iron & Consistency:** Dedicated natural bodybuilder committed to a strict Push-Pull-Legs (PPL) routine. The discipline required to hit a 100kg bench press directly translates to my development ethic.
-*   **🔧 Automotive Mechanics:** Passionate about hands-on car modification. I spend garage time working on aesthetic styling, custom suspension setups, and mechanical preservation for my project car.
-*   **🎮 Tactical Competitor:** Highly active in competitive tactical shooters and survival games (CS2, Rust). In *Pro Soccer Online*, I orchestrate team strategy operating as the Number 10 playmaker.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xRevenge06&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xRevenge06&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xRevenge06&theme=radical" alt="Activity Graph" />
-</p>
-
----
-
-### 🧭 Portfolio
-🎨 Check out my portfolio for detailed case studies, architectural designs, and project demos:  
-👉 **[tufankiraz.vercel.app](https://tufankiraz.vercel.app)**
-
----
-
-### 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:tufanege123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/tufan-kiraz-920580387/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://github.com/xRevenge06" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-  <a href="https://instagram.com/tufankiraz06" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-</p>
-
----
-
-### ⚡ Quote
-> “Real developers don’t just write code — they **architect entire ecosystems** with it.”
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
+| | |
+| --- | --- |
+| **Front end** | React, Next.js, Vue.js, TypeScript, Tailwind CSS, React Query |
+| **Back end** | Node.js, Express, NestJS, C# / .NET, REST, Stripe |
+| **Data** | PostgreSQL, MySQL, MSSQL, MongoDB, Redis, Prisma |
+| **Delivery** | Git, Docker, Vercel |
+## Experience
+**Founder & full-stack developer — [Revark Yazılım](https://revarkyazilim.com)**  
+Ankara · 2020 — present
+Custom web apps, ERP/CRM, commerce, and APIs. I handle the conversation and the code. Delivery is remote, with a written scope.
+**Web Design and Coding — Ankara University**  
+Associate degree · 2025 — present
+## Contact
+| | |
+| --- | --- |
+| Email | [tufankiraz@revarkyazilim.com](mailto:tufankiraz@revarkyazilim.com) |
+| Phone | [+90 538 688 62 41](tel:+905386886241) |
+| Portfolio | [tufankiraz.com](https://tufankiraz.com) |
+| Company | [revarkyazilim.com](https://revarkyazilim.com) |
+| LinkedIn | [tufan-kiraz](https://www.linkedin.com/in/tufan-kiraz-920580387) |
+| GitHub | [xRevenge06](https://github.com/xRevenge06) |
+I usually reply the same day.
